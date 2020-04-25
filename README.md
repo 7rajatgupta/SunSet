@@ -1,5 +1,5 @@
 # SunSet
-### A beautiful android app designed & developed by <a href="https://github.com/rajatpunkstaa">Rajat Gupta</a> which uses Animation to show sunrise and sunset using different colors and drawables with just a click. It uses material design guidelines and the class ObjectAnimator tied with an Acceleration Interpolator.
+### A beautiful android app designed & developed natively by <a href="https://github.com/7rajatgupta">Rajat Gupta</a> which uses Animation to show sunrise and sunset using different colors and drawables with just a click. It uses material design guidelines and the class ObjectAnimator tied with an Acceleration Interpolator.
 <h1>
 <img src="https://dl2.pushbulletusercontent.com/3t6V8qqhdE4FZSgleQ3aJlHeRafNL7aW/screener_20170202%2821_57_02%29.png" title="Welcome to Sunset" width="400" height="700" align="left"/>
 <img src="https://dl2.pushbulletusercontent.com/2XWkQpVTwkdaYaT5aUrx7DVoCtEThZjV/screener_20170202%2821_56_39%29.png" title="The Sun's going down !" width="400" height="700" align="right"/>
